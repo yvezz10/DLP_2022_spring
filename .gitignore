@@ -3,10 +3,15 @@ lab03/weight
 lab04-1/weight
 lab04-1/data
 
+lab05/loss_record*
+lab05/0_without_prior_pred.jpg
+
 lab07/iclevr
 lab07/weight
+lab07/result_80_80
+lab07/readme.txt
 
 __pycache__
 data
 weight
-
+model.pth
