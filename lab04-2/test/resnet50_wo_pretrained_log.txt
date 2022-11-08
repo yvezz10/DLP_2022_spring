@@ -1,0 +1,17 @@
+using device: cuda:0
+settings:
+lr rate: 0.001
+batch size: 8
+loss function: CrossEntropyLoss()
+optimizer: SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.001
+    maximize: False
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0
+)
+network: resnet50, w/o pretrained weight
+data weight: False
+total epochs: 20
