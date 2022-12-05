@@ -11,6 +11,10 @@ lab07/weight
 lab07/result_80_80
 lab07/readme.txt
 
+final/covid/dataset
+final/covid/weight
+final/simCLR/weight
+
 __pycache__
 data
 weight
