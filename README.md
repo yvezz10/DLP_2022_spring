@@ -19,7 +19,7 @@ Implement the back propagation from scratch and train the network to classify th
 ## Lab03
 
 Mastering the 2048 game by reinforce-learning and N-tuple network.
->Score in 10000 times playing the 2048 game after training:\
+>Score in 10000 times playing the 2048 game after training:
 <img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=50% width=50%>
 
 ## Lab04-1
