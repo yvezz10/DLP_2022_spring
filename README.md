@@ -10,20 +10,20 @@ Implement the back propagation from scratch and train the network to classify th
 -Linear data
 >accuracy: 99%
 
-<img src="img/lab02_linear_result.png" alt = "linear" title = "linear_result" height=50% width=50%>
+<img src="img/lab02_linear_result.png" alt = "linear" title = "linear_result" height=60% width=60%>
 
 
 -Non-linear XOR data
 >accuracy:99%
 
-<img src="img/lab02_nonlinear_result.png" alt = "nonlinear" title = "nonlinear_result" height=50% width=50%>
+<img src="img/lab02_nonlinear_result.png" alt = "nonlinear" title = "nonlinear_result" height=60% width=60%>
 
 ## Lab03
 
 Mastering the 2048 game by reinforce-learning and N-tuple network.
 >Score in 10000 times playing the 2048 game after training:
 
-<img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=50% width=50%>
+<img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=60% width=60%>
 
 ## Lab04-1
 Implement the EEGNet and DeepConvNet to classify the BCI dataset. In this lab, different activation function were tested for the preformance.
