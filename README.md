@@ -6,8 +6,7 @@ This repo containes the lab code in the 2022 Deep-Learning-and-Practice course.
 Implement the back propagation from scratch and train the network to classify the linear and non-linear data.
 
 -Linear data:
->accuracy:99%
-<img src="img/lab02_nonlinear_result.png", alt = "linear_result">
+<img src="https://github.com/yvezz10/DLP_2022_spring/blob/main/img/lab02_linear_result.png?raw=true", alt = "linear", title = "linear_result", height=50%, width=50%>
 
 
 -Non-linear XOR data
