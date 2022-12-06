@@ -4,7 +4,8 @@ This repo contains the lab code in the 2022 Deep-Learning-and-Practice course.
 For the detail of each lab please refer to its report.
 
 ## Lab02
-
+---
+### Keyword : Back propagation
 Implement the back propagation from scratch and train the network to classify the linear and non-linear data.
 
 -Linear data
@@ -19,13 +20,16 @@ Implement the back propagation from scratch and train the network to classify th
 <img src="img/lab02_nonlinear_result.png" alt = "nonlinear" title = "nonlinear_result" height=60% width=60%>
 
 ## Lab03
-
+---
+### Keyword : Reinforce learning, Q-learning, N-tuple network
 Mastering the 2048 game by reinforce-learning and N-tuple network.
 >Score in 10000 times playing the 2048 game after training:
 
 <img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=60% width=60%>
 
 ## Lab04-1
+---
+### Keyword : EEGNet, activation function
 Implement the EEGNet and DeepConvNet to classify the BCI dataset. In this lab, different activation function were tested for the preformance.
 
 -EEGNet
@@ -40,6 +44,8 @@ Implement the EEGNet and DeepConvNet to classify the BCI dataset. In this lab, d
 <img src="img/lab04-1_Deep.png" alt = "DeepConvNet" title = "DeepConvNet_result" height=50% width=50%>
 
 ## Lab04-2
+---
+### Keyword : Resnet
 Trained the classifier with Resnet18 and Resnet50 to detect the Diabetic Retinopathy.
 
 -Resnet18
@@ -53,6 +59,8 @@ Trained the classifier with Resnet18 and Resnet50 to detect the Diabetic Retinop
 <img src="img/lab04-2_resnet50.png" alt = "resnet50" title = "resnet50_result" height=60% width=60%>
 
 ## Lab05
+---
+### Keyword : VAE
 Inplement the conditional variational autoencoder(VAE) to predict the motion frame of robot end effector.
 
 -Ground truth
@@ -65,6 +73,8 @@ Inplement the conditional variational autoencoder(VAE) to predict the motion fra
 <img src="img/lab05_pred.gif" alt = "vae" title = "vae_pred" height=40% width=40%>
 
 ## Lab06
+---
+### Keyword : Deep-reinforce-learning
 Master the LunarLander game with reinforce-learning, using DQN, DDPG, DDQN and TD3.
 
 -Result
@@ -73,6 +83,8 @@ Master the LunarLander game with reinforce-learning, using DQN, DDPG, DDQN and T
 <img src="img/lab06_result.png" alt = "lunar" title = "lunar_result" height=100% width=100%>
 
 ## Lab07
+---
+### Keyword : GAN, WGAN, WGAN-GP
 Implenet the conditional generative adversarial network(GAN) to generate the specific synthetic images.
 
 -Generated images: (from only words such as 'red cylinder, blue cube... etc')
@@ -81,6 +93,8 @@ Implenet the conditional generative adversarial network(GAN) to generate the spe
 
 
 ## Final
+---
+### Keyword : Self-supervised learning, unsupervised learning
 We dicussed the to pretrained a classifiaction model.
 Three pretrained weights were generated from autoencoder, K-means and simCLR seperately. Then the weights were used to fine-tune and detects on covid-19 detection task. We discuss that the variety of the pretraining dataset is more important to the performance of down-stream task.
 
