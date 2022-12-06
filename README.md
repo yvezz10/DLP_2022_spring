@@ -56,6 +56,7 @@ Trained the classifier with Resnet18 and Resnet50 to detect the Diabetic Retinop
 Inplement the conditional variational autoencoder(VAE) to predict the motion frame of robot end effector.
 
 -Ground truth
+
 ><img src="img/lab05_true.gif" alt = "vae" title = "vae_ture" height=40% width=40%>
 
 -Predict result
