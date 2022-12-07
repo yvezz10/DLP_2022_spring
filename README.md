@@ -69,7 +69,7 @@ Inplement the conditional variational autoencoder(VAE) to predict the motion fra
 
 -Ground truth
 
-><img src="img/lab05_true.gif" alt = "vae" title = "vae_ture" height=40% width=40%>
+<img src="img/lab05_true.gif" alt = "vae" title = "vae_ture" height=40% width=40%>
 
 -Predict result
 > psnr : 23.6 dB
