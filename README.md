@@ -11,13 +11,13 @@ Implement the back propagation from scratch and train the network to classify th
 -Linear data
 >accuracy: 99%
 
-<img src="img/lab02_linear_result.png" alt = "linear" title = "linear_result" height=60% width=60%>
+<img src="img/lab02_linear_result.png" alt = "linear" title = "linear_result" height=100% width=100%>
 
 
 -Non-linear XOR data
 >accuracy:99%
 
-<img src="img/lab02_nonlinear_result.png" alt = "nonlinear" title = "nonlinear_result" height=60% width=60%>
+<img src="img/lab02_nonlinear_result.png" alt = "nonlinear" title = "nonlinear_result" height=100% width=100%>
 
 ---
 
@@ -26,7 +26,7 @@ Implement the back propagation from scratch and train the network to classify th
 Mastering the 2048 game by reinforce-learning and N-tuple network.
 >Score in 10000 times playing the 2048 game after training:
 
-<img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=60% width=60%>
+<img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=100% width=100%>
 
 ---
 
@@ -37,13 +37,13 @@ Implement the EEGNet and DeepConvNet to classify the BCI dataset. In this lab, d
 -EEGNet
 >accuracy: 87.4% with LeakyReLU
 
-<img src="img/lab04-1_EEG.png" alt = "EEGNet" title = "EEGNet_result" height=50% width=50%>
+<img src="img/lab04-1_EEG.png" alt = "EEGNet" title = "EEGNet_result" height=100% width=100%>
 
 
 -DeepConvNet
 >accuracy:81.76 with ELU
 
-<img src="img/lab04-1_Deep.png" alt = "DeepConvNet" title = "DeepConvNet_result" height=50% width=50%>
+<img src="img/lab04-1_Deep.png" alt = "DeepConvNet" title = "DeepConvNet_result" height=100% width=100%>
 
 ---
 
@@ -54,12 +54,12 @@ Trained the classifier with Resnet18 and Resnet50 to detect the Diabetic Retinop
 -Resnet18
 >accuracy: 82.47% with pretrained weight
 
-<img src="img/lab04-2_resnet18.png" alt = "resnet18" title = "resnet18_result" height=60% width=60%>
+<img src="img/lab04-2_resnet18.png" alt = "resnet18" title = "resnet18_result" height=100% width=100%>
 
 -Resnet50
 >accuracy: 83.15% with pretrained weight
 
-<img src="img/lab04-2_resnet50.png" alt = "resnet50" title = "resnet50_result" height=60% width=60%>
+<img src="img/lab04-2_resnet50.png" alt = "resnet50" title = "resnet50_result" height=100% width=100%>
 
 ---
 
@@ -95,7 +95,7 @@ Implenet the conditional generative adversarial network(GAN) to generate the spe
 
 -Generated images: (from only words such as 'red cylinder, blue cube... etc')
 
-><img src="img/lab07_result.png" alt = "GAN" title = "GAN_result" height=70% width=70%>
+><img src="img/lab07_result.png" alt = "GAN" title = "GAN_result" height=100% width=100%>
 
 ---
 
