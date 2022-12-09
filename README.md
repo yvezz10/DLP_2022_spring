@@ -22,8 +22,8 @@ Implement the back propagation from scratch and train the network to classify th
 ---
 
 ## Lab03
-### Keyword : Reinforce learning, Q-learning, N-tuple network
-Mastering the 2048 game by reinforce-learning and N-tuple network.
+### Keyword : Reinforcement learning, Q-learning, N-tuple network
+Mastering the 2048 game by reinforcement-learning and N-tuple network.
 >Score in 10000 times playing the 2048 game after training:
 
 <img src="img/lab03_result.png" alt = "2048" title = "2048_result" height=100% width=100%>
@@ -79,8 +79,8 @@ Inplement the conditional variational autoencoder(VAE) to predict the motion fra
 ---
 
 ## Lab06
-### Keyword : Deep-reinforce-learning
-Master the LunarLander game with reinforce-learning, using DQN, DDPG, DDQN and TD3.
+### Keyword : Deep-reinforcement-learning
+Master the LunarLander game with reinforcement-learning, using DQN, DDPG, DDQN and TD3.
 
 -Result
 >LunarLander score of each RL model
